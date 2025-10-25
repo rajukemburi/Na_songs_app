@@ -16,7 +16,9 @@ const Export=()=>{
             <div style={{marginTop:"15px"}}>
                 <img src="music.png" alt="" style={{height:"50px"}}/>
             </div> 
-            <h1>Naa songs</h1></div>
+            {/* <h1>Naa songs</h1> */}
+            <h2>my songs my life</h2>
+            </div>
         <Main/>
         
     </>
