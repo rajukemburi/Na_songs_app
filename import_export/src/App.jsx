@@ -1,5 +1,5 @@
 import {Main} from  "./components/import_export"
-import { Helloworl } from "./Helloworld"
+import { Helloworl } from "./helloworld"
 
 // const App=() =>{
 //     return <>
