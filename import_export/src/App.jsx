@@ -1,5 +1,5 @@
 import {Main} from  "./components/import_export"
-
+import { Helloworl } from "./Helloworld"
 
 // const App=() =>{
 //     return <>
@@ -13,6 +13,7 @@ import {Main} from  "./components/import_export"
 const Export=()=>{
     return <>
         <div style={{display:"flex",justifyContent:"center",gap:"15px", boxShadow:"0px 0px 10px black",borderRadius:"20px"}}> 
+            <Helloworl/>
             <div style={{marginTop:"15px"}}>
                 <img src="music.png" alt="" style={{height:"50px"}}/>
             </div> 
