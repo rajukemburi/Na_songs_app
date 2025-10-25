@@ -39,7 +39,7 @@ export const Main = () => {
                     <audio src={audio3} controls autoPlay muted loop style={{ height: "40px", width: "200px", boxShadow: "0px 0px 10px black", borderRadius: "20px" }}></audio>
                     <audio src={audio4} controls autoPlay muted loop style={{ height: "40px", width: "200px", boxShadow: "0px 0px 10px black", borderRadius: "20px" }}></audio>
                     <audio src={audio5} controls autoPlay muted loop style={{ height: "40px", width: "200px", boxShadow: "0px 0px 10px black", borderRadius: "20px" }}></audio>
-                    {/* <audio src="[iSongs.info] 06 - The Mother Song.mp3" controlls loop autoplay muted></audio> */}
+                    {/* <audio src="Boom Boom.mp3" controls loop autoPlay muted></audio> */}
                 </div>
 
             </div>
